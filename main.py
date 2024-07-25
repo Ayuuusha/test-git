@@ -10,3 +10,7 @@ print('Favorite member ' + name)
 
 name1 = input('Enter name: ')
 print('Your favorite member: ' + name1)
+
+
+name2 = input('enter name: ')
+print('Hello! '+ name2)
